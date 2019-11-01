@@ -1,0 +1,2 @@
+# hello-woreld
+muj tryb
